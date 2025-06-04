@@ -4087,7 +4087,7 @@ img.u-pull-left {
 }
 
 .contact-social li::after {
-    content : ",  ";
+    content : " ";
 }
 
 .contact-social li:last-child::after {
